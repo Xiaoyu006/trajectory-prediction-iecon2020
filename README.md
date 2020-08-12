@@ -2,6 +2,8 @@
 
 This repo contains the code for the paper published in IECON-2020.
 
+## Data preprocessing
+
 Run the following commands to preprocess the data.
 
 `python data_pieces_selection.py`
