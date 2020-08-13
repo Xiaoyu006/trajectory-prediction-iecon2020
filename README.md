@@ -15,4 +15,4 @@ Run the following commands to preprocess the data. You may need to download raw 
 After that you can start to train the model.
 
 ## Training
-
+Run `python train_tp.py` to train the trajectory prediction model.
